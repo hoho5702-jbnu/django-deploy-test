@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-yadjp#71(s^cv&p0_-d&1yfiphvye+ht#g=pmq&t(l*6905yf(
 DEBUG = True
 
 ALLOWED_HOSTS = [
-	"http://203.254.143.217"
+	"203.254.143.217"
 ]
 
 
